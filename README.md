@@ -1,13 +1,13 @@
-### Bienvenue sur mon profiles 👋
+# Bienvenue sur mon profiles 👋
 
-### Mes compétance est dépots associer
+## Mes compétance est dépots associer
 
-#### En C/C++
+### En C / C++
 * [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) : Gestion de stockage multi processus avec protocole de communication interne custom.
 * [Boids Simulation](https://github.com/mrsolarius/Boids-Simulation-C) : Simulation d'oisoïde.
 * [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec protocole applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
 
-### En java/kotlin
+### En Java / Kotlin
 * [Bako](https://github.com/mrsolarius/bako) : Gestion des emplois du temps pour le personnelle médicales
 * [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir [tuturu.fr](https://tuturu.fr)
 * [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft [Litopia](https://litopia.fr).
