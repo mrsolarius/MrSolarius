@@ -3,9 +3,9 @@
 ### Mes compétance est dépots associer
 
 #### En C/C++
-* [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) : Gestion de stockage multi processus avec processus de communication interne custom.
+* [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) : Gestion de stockage multi processus avec protocole de communication interne custom.
 * [Boids Simulation](https://github.com/mrsolarius/Boids-Simulation-C) : Simulation d'oisoïde.
-* [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec processus applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
+* [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec protocole applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
 
 ### En java/kotlin
 * [Bako](https://github.com/mrsolarius/bako) : Gestion des emplois du temps pour le personnelle médicales
