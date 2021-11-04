@@ -9,8 +9,8 @@
 
 ### En java/kotlin
 * [Bako](https://github.com/mrsolarius/bako) : Gestion des emplois du temps pour le personnelle médicales
-* [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir (tuturu.fr)[https://tuturu.fr]
-* [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft (Litopia)[https://litopia.fr].
+* [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir [tuturu.fr](https://tuturu.fr)
+* [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft [Litopia](https://litopia.fr).
 * Acropose Connect : Application mobile de gestion de stock développer chez Acropose (dépot privée)
 
 ### JavaScript / TypeScript
@@ -21,8 +21,8 @@
 * [Backend & Front de litopia.fr](https://github.com/LitopiaCommunity/Litopia.fr) : Site web du serveur de jeux Litopia.
 
 ### PHP
-* [La Forge](https://github.com/mrsolarius/Site-La-Forge) : Fausse boutique de couteaux voir (laforge.louisvolat.fr)[https://laforge.louisvolat.fr]
-* [PGRole](https://github.com/mrsolarius/PGRole) : Application de test des droit de postgresSQL voir (pgrole.louisvolat.fr)[https://pgrole.louisvolat.fr]
+* [La Forge](https://github.com/mrsolarius/Site-La-Forge) : Fausse boutique de couteaux voir [laforge.louisvolat.fr](https://laforge.louisvolat.fr)
+* [PGRole](https://github.com/mrsolarius/PGRole) : Application de test des droit de postgresSQL voir [pgrole.louisvolat.fr](https://pgrole.louisvolat.fr)
 * Thery Contract : Application Laravel de gestion de contrat développer chez Thery Saint Martin d'Hères (dépot privée)
 * Acropose REST : Module php utiliser sur l'ERP Dolibarr pour lier l'application Acropose Connect à l'ERP (dépot privée)
 * Acropose Dashbord : Module PHP utiliser sur l'ERP Dolibarr pour afficher de mangière intéligentes les données de l'ERP (dépot privée)
