@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profiles 👋
 
-## Mes compétance est dépots associer
+## Mes compétances est dépots associer
 
 ### En C / C++
 * [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) : Gestion de stockage multi processus avec protocole de communication interne custom.
