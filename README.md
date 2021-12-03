@@ -4,6 +4,7 @@
 
 ### En C / C++
 * [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) ⭐ : Gestion de stockage multi processus avec protocole de communication interne custom.
+* [MIMAGE](https://github.com/mrsolarius/mimage_protocole) : Application Client/Server TCP d'upload et de download d'images
 * [Boids Simulation](https://github.com/mrsolarius/Boids-Simulation-C) : Simulation d'oisoïde.
 * [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec protocole applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
 
