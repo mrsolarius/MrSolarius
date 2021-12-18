@@ -10,6 +10,7 @@
 
 ### En Java / Kotlin
 * [Bako](https://github.com/mrsolarius/bako) ⭐ : Gestion des emplois du temps pour le personnelle médicales
+* [Tux Letter Game](https://github.com/mrsolarius/tux) : Mini jeux dévlopper avec Jmonkey Engine
 * [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir [tuturu.fr](https://tuturu.fr)
 * [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft [Litopia](https://litopia.fr).
 * Acropose Connect : Application mobile de gestion de stock développer chez Acropose (dépot privée)
