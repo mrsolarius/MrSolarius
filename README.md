@@ -2,13 +2,13 @@
 
 ## Mes compétances est dépots associer
 
-### En C / C++
+### C / C++
 * [Process Dictionary](https://github.com/mrsolarius/Process-Dictionary-Project) ⭐ : Gestion de stockage multi processus avec protocole de communication interne custom.
 * [MIMAGE](https://github.com/mrsolarius/mimage_protocole) : Application Client/Server TCP d'upload et de download d'images
 * [Boids Simulation](https://github.com/mrsolarius/Boids-Simulation-C) : Simulation d'oisoïde.
 * [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec protocole applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
 
-### En Java / Kotlin
+### Java / Kotlin
 * [Bako](https://github.com/mrsolarius/bako) ⭐ : Gestion des emplois du temps pour le personnelle médicales
 * [Tux Letter Game](https://github.com/mrsolarius/tux) : Mini jeux dévlopper avec Jmonkey Engine
 * [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir [tuturu.fr](https://tuturu.fr)
