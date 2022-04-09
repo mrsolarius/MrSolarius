@@ -16,6 +16,7 @@
 * Acropose Connect : Application mobile de gestion de stock développer chez Acropose (dépot privée)
 
 ### JavaScript / TypeScript
+* [TodoList](https://github.com/mrsolarius/todolist) ⭐ : Une todolist permetant d'upload des images basée sur firebase. voir [todo.tuturu.fr](https://todo.tuturu.fr)
 * [Star Bot](https://github.com/mrsolarius/StarsBot) ⭐ : Bot discord dédier à l'astronomie avec de nombreuses features.
 * [Module Embed Messages](https://github.com/eilex/discord.js-embed-menu) : Module node dédier à la création et la gestion de menu utilisant des réactions
 * [Handle bot](https://github.com/mrsolarius/handlebot) : Bot discord dédier au jeu vidéo StarCitizen. Utiliser par plus de 50 serveurs.
@@ -36,6 +37,7 @@
 * [Turtle Maze](https://github.com/mrsolarius/TurtuleMaze) ⭐ : Implementation de l'algorithme A* pour aider une tortue à trouver sa salade.
 
 ### Front (CSS, SCSS, Vuejs ...)
+* [TodoList](https://github.com/mrsolarius/todolist) ⭐ : CSS forker de [todoMVC](https://todomvc.com/) modérniser et en grand partie refait en SASS . voir [todo.tuturu.fr](https://todo.tuturu.fr)
 * [Mon CV](https://github.com/mrsolarius/resume)(Encore en cours de construction) ⭐ : Création d'un SCSS sans aucun framework CSS
 * [Litopia Front S5](https://github.com/LitopiaCommunity/LitopiaFrontS5)(Encore en cours de construction) : Utilisation de angular, SCSS sans aucun framework
 * [Oktotweet](https://github.com/mrsolarius/Oktotweet) : Utilisation de tailwind webpack et SCSS custom
