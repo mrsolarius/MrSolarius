@@ -12,7 +12,7 @@
 * [Bako](https://github.com/mrsolarius/bako) ⭐ : Gestion des emplois du temps pour le personnelle médicales
 * [Tux Letter Game](https://github.com/mrsolarius/tux) : Mini jeux dévlopper avec Jmonkey Engine
 * [VéPick](https://github.com/mrsolarius/VePick) : Application Java de gestion de location de vélo type vélib. Utilisant JPA comme ORM.
-* [CyberChamis (Server)](https://github.com/mrsolarius/CyberChamis-Server) : Serveur d'une application de défis irl. Utilise **Spring**,** JPA** et **OpenAPI** voir [grechat.herokuapp.com/](https://grechat.herokuapp.com/swagger-ui/)
+* [CyberChamis (Server)](https://github.com/mrsolarius/CyberChamis-Server) : Serveur d'une application de défis irl. Utilise **Spring**, **JPA** et **OpenAPI** voir [grechat.herokuapp.com/](https://grechat.herokuapp.com/swagger-ui/)
 * [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir *[tuturu.fr](https://tuturu.fr)(offline)*
 * [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft *[Litopia](https://litopia.fr)(offline)*.
 * Acropose Connect : Application mobile de gestion de stock développer chez Acropose (dépot privée)
