@@ -20,6 +20,7 @@
 ### JavaScript / TypeScript
 * [TodoList](https://github.com/mrsolarius/todolist) ⭐ : Une todolist permetant d'upload des images basée sur firebase. voir [todo.tuturu.fr](https://todo.tuturu.fr)
 * [Star Bot](https://github.com/mrsolarius/StarsBot) ⭐ : Bot discord dédier à l'astronomie avec de nombreuses features.
+* [CyberChamis (Client)](https://github.com/mrsolarius/CyberChamis-Client) : Front d'une application de defis IRL, Comunication avec api (metromobilité, openstreeetmap, etc..) upload sur firebase. voir [cyberchamis.tuturu.fr](https://cyberchamis.tuturu.fr/home)
 * [Module Embed Messages](https://github.com/eilex/discord.js-embed-menu) : Module node dédier à la création et la gestion de menu utilisant des réactions
 * [Handle bot](https://github.com/mrsolarius/handlebot) : Bot discord dédier au jeu vidéo StarCitizen. Utiliser par plus de 50 serveurs.
 * [Backend de la prise connecter](https://github.com/iot-catnip/backend) : Backend de la prise connecter utilisant un framework custom.
