@@ -12,6 +12,7 @@
 * [Bako](https://github.com/mrsolarius/bako) ⭐ : Gestion des emplois du temps pour le personnelle médicales
 * [Tux Letter Game](https://github.com/mrsolarius/tux) : Mini jeux dévlopper avec Jmonkey Engine
 * [VéPick](https://github.com/mrsolarius/VePick) : Application Java de gestion de location de vélo type vélib. Utilisant JPA comme ORM.
+* [CyberChamis (Server)](https://github.com/mrsolarius/CyberChamis-Server) : Serveur d'une application de défis irl. Utilise **Spring**,** JPA** et **OpenAPI** voir [grechat.herokuapp.com/](https://grechat.herokuapp.com/swagger-ui/)
 * [Tuturu](https://github.com/mrsolarius/tuturu-java) : Application Java réimplémentant le protocole HTTP de 0 voir *[tuturu.fr](https://tuturu.fr)(offline)*
 * [Litopia Spigot Plugin](https://github.com/LitopiaCommunity/LitopiaSpigotPlugin) : Plugin de gestion du serveur minecraft *[Litopia](https://litopia.fr)(offline)*.
 * Acropose Connect : Application mobile de gestion de stock développer chez Acropose (dépot privée)
@@ -39,7 +40,8 @@
 
 ### Front (CSS, SCSS, Vuejs ...)
 * [TodoList](https://github.com/mrsolarius/todolist) ⭐ : CSS forker de [todoMVC](https://todomvc.com/) modérniser et en grand partie refait en SCSS . voir [todo.tuturu.fr](https://todo.tuturu.fr)
-* [Mon CV](https://github.com/mrsolarius/resume)(Encore en cours de construction) ⭐ : Création d'un SCSS sans aucun framework CSS
+* [CyberChamis (Client)](https://github.com/mrsolarius/CyberChamis-Client) ⭐ : Front d'une application de defis IRL, fait avec angular + angular material, mobile first.
+* [Mon CV](https://github.com/mrsolarius/resume)(Encore en cours de construction) : Création d'un SCSS sans aucun framework CSS
 * [Litopia Front S5](https://github.com/LitopiaCommunity/LitopiaFrontS5)(Encore en cours de construction) : Utilisation de angular, SCSS sans aucun framework
 * [Oktotweet](https://github.com/mrsolarius/Oktotweet) : Utilisation de tailwind webpack et SCSS custom
 * [Front Prise connecter](https://github.com/iot-catnip/frontend) : Utilisation de tailwind et vuejs
