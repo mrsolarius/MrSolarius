@@ -40,7 +40,7 @@
 
 ### Front (CSS, SCSS, Vuejs ...)
 * [TodoList](https://github.com/mrsolarius/todolist) ⭐ : CSS forker de [todoMVC](https://todomvc.com/) modérniser et en grand partie refait en SCSS . voir [todo.tuturu.fr](https://todo.tuturu.fr)
-* [CyberChamis (Client)](https://github.com/mrsolarius/CyberChamis-Client) ⭐ : Front d'une application de defis IRL, fait avec angular + angular material, mobile first. voir [cyberchamis.tuturu.fr](https://cyberchamis.tuturu.fr/home)
+* [CyberChamis (Client)](https://github.com/mrsolarius/CyberChamis-Client) : Front d'une application de defis IRL, fait avec angular + angular material, mobile first. voir [cyberchamis.tuturu.fr](https://cyberchamis.tuturu.fr/home)
 * [Mon CV](https://github.com/mrsolarius/resume)(Encore en cours de construction) : Création d'un SCSS sans aucun framework CSS
 * [Litopia Front S5](https://github.com/LitopiaCommunity/LitopiaFrontS5)(Encore en cours de construction) : Utilisation de angular, SCSS sans aucun framework
 * [Oktotweet](https://github.com/mrsolarius/Oktotweet) : Utilisation de tailwind webpack et SCSS custom
