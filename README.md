@@ -9,6 +9,7 @@
 * [Prise Connecter](https://github.com/iot-catnip/carte) : Prise connecter avec protocole applicatif custom [ici](https://github.com/iot-catnip/backend/blob/master/CAT_NIP_PROTOCOL.txt).
 
 ### Java / Kotlin
+* [SneakyPaint](https://github.com/mrsolarius/SneakyPaint) ⭐ : Application de dessin assez simple mais implementant de nombreux design et coder le plus proprement possible
 * [Bako](https://github.com/mrsolarius/bako) ⭐ : Gestion des emplois du temps pour le personnelle médicales
 * [Tux Letter Game](https://github.com/mrsolarius/tux) : Mini jeux dévlopper avec Jmonkey Engine
 * [VéPick](https://github.com/mrsolarius/VePick) : Application Java de gestion de location de vélo type vélib. Utilisant JPA comme ORM.
